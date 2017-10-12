@@ -19,6 +19,8 @@ R: I could make various versions of the software so I that way I could go back o
 
 How do the diagrams help you visualize the branch structure?
 
+R: A LOT, THAT WAS REALLY HARD TO VISUALICE AND IT STILL DON'T GET IT FULL
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
