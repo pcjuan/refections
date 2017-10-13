@@ -28,3 +28,6 @@ R: You obtain a branch with both changes in one.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+R: It tells you where are the conflics instead of searching line by line and file by file. This is quite good because you
+can't miss any changes.
