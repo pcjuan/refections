@@ -24,5 +24,7 @@ R: A LOT, THAT WAS REALLY HARD TO VISUALICE AND IT STILL DON'T GET IT FULL
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+R: You obtain a branch with both changes in one.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
